@@ -10,3 +10,8 @@
 * [Web mapping demo](https://github.com/MarcAlx/snowcamp.io-2023-webmapping-demo) | [codepen](https://codepen.io/MarcAlx/pen/LYByEXb)
 
 ## Vendredi
+
+### SQL réactif : pourquoi c'est important ? ([Thomas Segismont](https://github.com/tsegismont))
+
+* [Support](https://speakerdeck.com/tsegismont/reactive-sql-why-do-we-care) 
+* [Sources](https://github.com/tsegismont/reactive-sql-demos)
