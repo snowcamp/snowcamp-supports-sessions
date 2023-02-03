@@ -15,3 +15,7 @@
 
 * [Support](https://speakerdeck.com/tsegismont/reactive-sql-why-do-we-care) 
 * [Sources](https://github.com/tsegismont/reactive-sql-demos)
+
+### Platform Engineering : lorsque Kubernetes devient la clé 🔑 du royaume ([Laurent Gil](https://twitter.com/angegar), [Olivier Jacques](https://twitter.com/ojacques2))
+
+* [Slides](https://ojacques.github.io/presentations/snowcamp_2023/)
