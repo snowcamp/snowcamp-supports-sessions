@@ -12,7 +12,6 @@
 
 * [Présentation vidéo (devfest nantes)](https://www.youtube.com/watch?v=jAl3c_zo71w&list=PLuZ_sYdawLiWIRK-QW6zpEJMSeCtspXP8)
 
-
 ### Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ? ([Marc-Alexandre Blanchard](https://twitter.com/Marc_Alx) et Ninon Broyelle)
 
 * [Slides / Demos](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto)
@@ -25,7 +24,6 @@
 * [Support](https://speakerdeck.com/tsegismont/reactive-sql-why-do-we-care) 
 * [Sources](https://github.com/tsegismont/reactive-sql-demos)
 
-
 ### Pourquoi le CSS Ca Saoule Souvent
 
 * [Support](https://slides.com/alberic/pourquoi-le-css-ca-saoule-souvent)
@@ -35,3 +33,6 @@
 
 * [Slides](https://ojacques.github.io/presentations/snowcamp_2023/)
 
+### Cryptographie post-quantique : pourquoi est comment va-t-on remplacer nos algos d'aujourd'hui
+
+* [Support](https://github.com/vlamy/talks)
