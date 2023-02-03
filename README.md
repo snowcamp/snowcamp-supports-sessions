@@ -15,3 +15,8 @@
 
 * [Support](https://speakerdeck.com/tsegismont/reactive-sql-why-do-we-care) 
 * [Sources](https://github.com/tsegismont/reactive-sql-demos)
+
+### Pourquoi le CSS Ca Saoule Souvent
+
+* [Support](https://slides.com/alberic/pourquoi-le-css-ca-saoule-souvent)
+* [CSS Dojo](https://cssdojo.dev)
