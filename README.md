@@ -4,6 +4,15 @@
 
 ## Jeudi
 
+### From Zero to Hero in Kubernetes Native Java
+
+* [Présentation vidéo (jcon)](https://www.youtube.com/watch?v=JCZM53TgMhk)
+
+### Bien se lancer dans le Domain Driven Design sans se tromper de combat
+
+* [Présentation vidéo (devfest nantes)](https://www.youtube.com/watch?v=jAl3c_zo71w&list=PLuZ_sYdawLiWIRK-QW6zpEJMSeCtspXP8)
+
+
 ### Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ? ([Marc-Alexandre Blanchard](https://twitter.com/Marc_Alx) et Ninon Broyelle)
 
 * [Slides / Demos](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto)
