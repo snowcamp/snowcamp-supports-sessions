@@ -16,6 +16,13 @@
 * [Support](https://speakerdeck.com/tsegismont/reactive-sql-why-do-we-care) 
 * [Sources](https://github.com/tsegismont/reactive-sql-demos)
 
+
+### Pourquoi le CSS Ca Saoule Souvent
+
+* [Support](https://slides.com/alberic/pourquoi-le-css-ca-saoule-souvent)
+* [CSS Dojo](https://cssdojo.dev)
+
 ### Platform Engineering : lorsque Kubernetes devient la clé 🔑 du royaume ([Laurent Gil](https://twitter.com/angegar), [Olivier Jacques](https://twitter.com/ojacques2))
 
 * [Slides](https://ojacques.github.io/presentations/snowcamp_2023/)
+
