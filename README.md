@@ -17,6 +17,10 @@
 * [Slides / Demos](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto)
 * [Web mapping demo](https://github.com/MarcAlx/snowcamp.io-2023-webmapping-demo) | [codepen](https://codepen.io/MarcAlx/pen/LYByEXb)
 
+### Revue de code : on n'est pas venu pour souffrir !
+
+ * [Présentation vidéo (forum php)](https://www.youtube.com/watch?v=LVh6iQtJW2I)
+
 ## Vendredi
 
 ### SQL réactif : pourquoi c'est important ? ([Thomas Segismont](https://github.com/tsegismont))
