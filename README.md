@@ -16,7 +16,6 @@
 * [Support](https://speakerdeck.com/tsegismont/reactive-sql-why-do-we-care) 
 * [Sources](https://github.com/tsegismont/reactive-sql-demos)
 
-
 ### Pourquoi le CSS Ca Saoule Souvent
 
 * [Support](https://slides.com/alberic/pourquoi-le-css-ca-saoule-souvent)
@@ -26,3 +25,8 @@
 
 * [Slides](https://ojacques.github.io/presentations/snowcamp_2023/)
 
+### Une application frontend pour les gouverner toutes ([Sylvain Dedieu](https://twitter.com/DedieuS))
+
+* [Support](https://slides.com/dedieusylvain/deck-71c8f6/fullscreen)
+* [Sources](https://github.com/sdedieu/the-one-portal/tree/monorepo-microfrontends)
+  
