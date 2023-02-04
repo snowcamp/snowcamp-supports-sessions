@@ -4,10 +4,22 @@
 
 ## Jeudi
 
+### From Zero to Hero in Kubernetes Native Java
+
+* [Présentation vidéo (jcon)](https://www.youtube.com/watch?v=JCZM53TgMhk)
+
+### Bien se lancer dans le Domain Driven Design sans se tromper de combat
+
+* [Présentation vidéo (devfest nantes)](https://www.youtube.com/watch?v=jAl3c_zo71w&list=PLuZ_sYdawLiWIRK-QW6zpEJMSeCtspXP8)
+
 ### Il était une fois … la cartographie 🗺️ Comment et pourquoi ajouter une carte à vos applications ? ([Marc-Alexandre Blanchard](https://twitter.com/Marc_Alx) et Ninon Broyelle)
 
 * [Slides / Demos](https://github.com/MarcAlx/snowcamp.io-2023-intro-carto)
 * [Web mapping demo](https://github.com/MarcAlx/snowcamp.io-2023-webmapping-demo) | [codepen](https://codepen.io/MarcAlx/pen/LYByEXb)
+
+### Revue de code : on n'est pas venu pour souffrir !
+
+ * [Présentation vidéo (forum php)](https://www.youtube.com/watch?v=LVh6iQtJW2I)
 
 ## Vendredi
 
@@ -25,8 +37,11 @@
 
 * [Slides](https://ojacques.github.io/presentations/snowcamp_2023/)
 
+### Cryptographie post-quantique : pourquoi est comment va-t-on remplacer nos algos d'aujourd'hui
+
+* [Support](https://github.com/vlamy/talks)
+
 ### Une application frontend pour les gouverner toutes ([Sylvain Dedieu](https://twitter.com/DedieuS))
 
 * [Support](https://slides.com/dedieusylvain/deck-71c8f6/fullscreen)
 * [Sources](https://github.com/sdedieu/the-one-portal/tree/monorepo-microfrontends)
-  
