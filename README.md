@@ -40,3 +40,8 @@
 ### Cryptographie post-quantique : pourquoi est comment va-t-on remplacer nos algos d'aujourd'hui
 
 * [Support](https://github.com/vlamy/talks)
+
+### Une application frontend pour les gouverner toutes ([Sylvain Dedieu](https://twitter.com/DedieuS))
+
+* [Support](https://slides.com/dedieusylvain/deck-71c8f6/fullscreen)
+* [Sources](https://github.com/sdedieu/the-one-portal/tree/monorepo-microfrontends)
