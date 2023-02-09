@@ -49,3 +49,9 @@
 
 * [Support](https://slides.com/dedieusylvain/deck-71c8f6/fullscreen)
 * [Sources](https://github.com/sdedieu/the-one-portal/tree/monorepo-microfrontends)
+
+
+### Ctrl + C, Ctrl + V ! dupliquer ou ne pas dupliquer ? ([Emmanuel DE SAINT STEBAN](https://twitter.com/manudss), [Patrice DE SAINT STEBAN](https://twitter.com/patoudss))
+
+* [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRxXaDKAxLNwXqhaMeKsGIFGRwsr6Z3rrHYAxZrs5-2vAh2OMND-xwdBjhzaMlr4Di2pJTZlXm3epRc/pub?start=false&loop=false&delayms=30000&slide=id.p)
+* [Documentation](https://manudss.notion.site/Pr-sentation-Ctr-C-et-Ctrl-V-9eaf0d7e07914ba2a2cc7102fe18472b)
