@@ -25,6 +25,10 @@
 
  * [Présentation vidéo (forum php)](https://www.youtube.com/watch?v=LVh6iQtJW2I)
 
+### À la découverte de TanStack Query, le tueur de Redux, par [Jules HABLOT](https://www.linkedin.com/in/jules-hablot-zenika-grenoble/)
+
+* [Dépôt GitHub](https://github.com/P0ppoff/conference-redux-killer)
+
 ## Vendredi
 
 ### SQL réactif : pourquoi c'est important ? ([Thomas Segismont](https://github.com/tsegismont))
