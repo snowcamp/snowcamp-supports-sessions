@@ -9,4 +9,7 @@
 
 # Contribuer
 
-Pour ajouter son talk, il suffit de proposer une pull request en modifiant le fichier de l'année correspondante.
+Pour ajouter son talk, vous avez plusieurs options :
+
+- proposer une pull request en modifiant le fichier de l'année correspondante.
+- nous envoyer un mail avec le patch tel que généré par la sous command format-patch de git
